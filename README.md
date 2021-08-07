@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Shadril Hassan Shifat
-- 👀 I’m interested in Competitive Programming, Data Science, ML, NLP
+- 👀 I’m interested in Competitive Programming, Data Science, AI, ML, NLP
 - 🌱 I’m currently learning ML on Kaggle
 - 📫 Contract me directly at -
 -       Email: shadrilhassan@outlook.com
