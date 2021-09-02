@@ -1,11 +1,30 @@
+# Shadril Hassan Shifat
 - 👋 Hi there, I’m Shadril Hassan Shifat
-- 👀 I’m interested in Competitive Programming, Data Science, AI, ML, NLP
-- 🌱 I’m currently learning ML on Kaggle
-- 📫 Contract me directly at -
--       Email: shadrilhassan@outlook.com
--       Linkedin: https://www.linkedin.com/in/shadril/
--       Codeforces: https://codeforces.com/profile/shadril238
--       Discord: shadril238#9685
+- I’m interested in Competitive Programming, Data Science, AI, ML, NLP.
+- Currently I am persuing my undergrad degree in Computer Science & Engineering from American International University -Bangladesh (AIUB).
+
+<h3 align="center"> Connect with Me at </h3>
+
+<p align="center">
+<a href="mailto:shadrilhassan@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Outlook-shadrilhassan@outlook.com-red?style=flat&logo=outlook"></a>
+<a href="https://www.linkedin.com/in/shadril"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shadril-blue?style=flat&logo=linkedin"></a>
+</p>
+  
+
+<p align="center">
+   <table>
+      <tr>
+       <th>Profile stats  </th>
+       <th>Language Contribution</th>
+     </tr>
+      <tr>
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=shadril238&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadril238&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+     </tr>
+   </table>
+</p>
+
+![Profile views](https://gpvc.arturio.dev/shadril238)
 
 <!---
 shadril238/shadril238 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
