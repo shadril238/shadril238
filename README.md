@@ -1,5 +1,5 @@
 # Shadril Hassan Shifat
-- 👋 Hi there, I’m Shadril Hassan Shifat
+- 👋 Hi there, I’m Shadril Hassan Shifat.
 - I’m interested in Competitive Programming, Data Science, AI, ML, NLP.
 - Currently I am persuing my undergrad degree in Computer Science & Engineering from American International University -Bangladesh (AIUB).
 
