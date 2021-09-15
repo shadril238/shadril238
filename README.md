@@ -8,14 +8,14 @@
 <p align="center">
 <a href="mailto:shadrilhassan@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Outlook-shadrilhassan@outlook.com-red?style=flat&logo=outlook"></a>
 <a href="https://www.linkedin.com/in/shadril"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shadril-blue?style=flat&logo=linkedin"></a>
-<a href="shadril238"><img alt="Find me everywhere" src="https://img.shields.io/badge/Find Me Everywhere-shadril238-red?"></a>
+<a href="shadril238"><img alt="Find me everywhere" src="https://img.shields.io/badge/FindMeEverywhere-shadril238-red?"></a>
 </p>
   
 
 <p align="center">
    <table>
       <tr>
-       <th>Profile stats  </th>
+       <th>My Github Stats</th>
        <th>Language Contribution</th>
      </tr>
       <tr>
