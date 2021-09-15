@@ -8,7 +8,7 @@
 <p align="center">
 <a href="mailto:shadrilhassan@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Outlook-shadrilhassan@outlook.com-red?style=flat&logo=outlook"></a>
 <a href="https://www.linkedin.com/in/shadril"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-shadril-blue?style=flat&logo=linkedin"></a>
-<a href="shadril238"><img alt="Handle" src="https://img.shields.io/badge/Handle-shadril238-red?"></a>
+<a href="shadril238"><img alt="Handle" src="https://img.shields.io/badge/Competitive Handle-shadril238-red?"></a>
 </p>
   
 
