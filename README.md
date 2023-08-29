@@ -1,4 +1,4 @@
-![Profile Banner](https://github.com/shadril238/shadril238/assets/63901551/627beee5-1e12-4e4d-b14f-ff652d692a8b){:width="960px" height="288px"}
+![Profile Banner](https://github.com/shadril238/shadril238/assets/63901551/627beee5-1e12-4e4d-b14f-ff652d692a8b){:width="960px" height="260px"}
 
 
 # Shadril Hassan Shifat
