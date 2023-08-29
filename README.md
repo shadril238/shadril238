@@ -1,4 +1,4 @@
-<img alt="Profile Banner" src="https://github.com/shadril238/shadril238/assets/63901551/627beee5-1e12-4e4d-b14f-ff652d692a8b" style="max-width: 100;" >
+<img alt="Profile Banner" src="https://github.com/shadril238/shadril238/assets/63901551/627beee5-1e12-4e4d-b14f-ff652d692a8b" style="max-width: 100; max-hight:60" >
 
 # Shadril Hassan Shifat
 - 👋 Hi there, I’m Shadril Hassan Shifat.
