@@ -1,61 +1,126 @@
-<img alt="Profile Banner" src="https://github.com/shadril238/shadril238/assets/63901551/627beee5-1e12-4e4d-b14f-ff652d692a8b" width="900" height="200">
+<img alt="Profile Banner" src="https://github.com/shadril238/shadril238/assets/63901551/627beee5-1e12-4e4d-b14f-ff652d692a8b" width="100%" />
 
 # Shadril Hassan Shifat
-- 👋 Hi there, I’m Shadril Hassan Shifat.
-- I’m interested in Competitive Programming, Data Science, AI, ML, NLP.
-- Currently I am persuing my undergrad degree in Computer Science & Engineering from American International University -Bangladesh (AIUB).
 
-- 📫 How to reach me- **shadrilhassan@outlook.com**
+### Software Engineer | Research Assistant
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shadril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadril" height="30" width="40" /></a>
-  <a href="https://discord.gg/#9685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shadril238#9685" height="30" width="40" /></a>
-  <a href="https://kaggle.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://instagram.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shadril238" height="30" width="40" /></a>
-  <a href="https://www.topcoder.com/members/shadril238" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="shadril238" height="30" width="40" /></a>
-   <a href="https://stackoverflow.com/users/13245186/shadril238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shadril238" height="30" width="40" /></a>
-
+  <a href="https://linkedin.com/in/shadril">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/shadril238">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:shadril.shifat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://shadril238.github.io">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
 </p>
 
-  
+---
+
+## 👨‍💻 About Me
+
+I am a **Software Engineer** at **Brain Station 23 PLC** and a **Research Assistant** at **ELITE Research Lab, LLC**. My passion implies in **Deep Learning**, **NLP**, and **Large Language Models (LLMs)**, with a focus on building scalable, event-driven systems and autonomous AI agents.
+
+- 🔭 I’m currently working on **Benchmarking LLMs** and **Agentic AI** systems.
+- 🌱 I’m currently learning **Advanced Reinforcement Learning** and **Generative AI**.
+- 👯 I’m looking to collaborate on **Research projects** involving **LLMs**, **Reasoning**, and **Multi-Agent Systems**.
+- 💬 Ask me about **Microservices**, **RAG**, & **System Design**.
+
+## 🔬 Research Interests
+**Deep Learning**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Computer Vision (CV)**, **Agentic AI**, **Reinforcement Learning**, **Explainable AI (XAI)**.
+
+---
+
+## 🚀 Experience
+
+### **Software Engineer** @ [Brain Station 23 PLC](https://brainstation23.com)
+*Mar 2024 – Present | Dhaka, Bangladesh*
+- Built **Pocket eWallet**, a distributed MFS platform, reducing transaction latency via parallel processing.
+- Developed standalone cron management and centralized notification services for Unipet.
+- Led migration of legacy data and optimized database design for performance.
+- Architected microservices and event-driven systems for fault-tolerant operations.
+- Contributed to **One by MetLife Bangladesh** AI chatbot using LLM-based RAG.
+- Implemented **Azure DevOps CI/CD** pipelines for automated multi-environment deployments.
+
+### **Research Assistant** @ ELITE Research Lab, LLC
+*Dec 2024 – Present | Remote, USA*
+- conducting research on **benchmarking LLMs** and **AI-driven collaborative agents** for low-resource languages (Bangla).
+- Gained hands-on experience with **LLMs**, **NLP**, **RL**, and **generative AI** with a focus on improving AI reasoning.
+- Built a multi-agent deep research pipeline using **Llama 3.2**, **RAG**, and tool integration.
+
+---
+
+## 🛠️ Projects
+
+### [Deep Research Assistant](https://github.com/shadril238)
+*September 2025*
+- Designed an end-to-end multi-agent reasoning research system with **Planner, Searcher, Verifier, Writer, and Evaluator** modules.
+- Built with **Python, Gemini API, Tavily API, LangChain-style orchestration**.
+- Features **Gradio UI/CLI** enabling autonomous, transparent, reproducible pipelines.
+
+### [Hybrid Log Classification](https://github.com/shadril238)
+*June 2025*
+- developed a hybrid log classification system combining **regex**, **MiniLM embeddings**, and **LLM fallback**.
+- Deployed via **FastAPI** (CSV upload) and CLI for scalable log labeling.
+
+### [AI Resume Analyzer](https://github.com/shadril238)
+*February 2025*
+- AI-powered resume ranking suite using **sentence-transformer embeddings** and **Django API**.
+- Turns folders of PDF/DOCX into ranked shortlists against job descriptions.
+- Features a **Gradio UI**, keyword boosts, CSV export, and optional **Ollama** refinement.
+
+### [MediLink — Healthcare Management System](https://github.com/shadril238)
+*December 2023*
+- Built with **Spring Boot 3**, **Microservices**, **ChatGPT API**, and **Azure DevOps**.
+- Enhances healthcare efficiency through secure, data-driven patient management and telemedicine.
+
+---
+
+## 📚 Publications
+
+1. **Enhanced Classification of Anxiety, Depression, and Stress Levels** (2024)
+   *Proceedings of the 3rd International Conference on Computing Advancements.*
+   [doi:10.1145/3723178.3723236](https://doi.org/10.1145/3723178.3723236)
+
+2. **Time series analysis of care records data for nurse activity recognition in the wild** (2024)
+   *Human Activity and Behavior Analysis, CRC Press.*
+   [doi:10.1201/9781003371540-28](https://doi.org/10.1201/9781003371540-28)
+
+3. **An In-Depth Exploration of Machine Learning Methods for Mental Health State Detection** (2026)
+   *Frontiers in Digital Health.*
+   [doi:10.3389/fdgth.2025.1724348](https://doi.org/10.3389/fdgth.2025.1724348)
+
+---
+
+## 🎓 Education
+
+**BSc in Computer Science and Engineering (CSE)**
+*American International University–Bangladesh (AIUB)*
+_Jan 2020 – Sep 2023_
+- **CGPA**: 3.94/4.00
+- **Thesis**: Detecting Mental Health Conditions using Machine Learning (ML) Techniques.
+- **Achievements**: Magna Cum Laude, Dean’s List (6x), Top 10 in Intra-AIUB Programming Contest.
+
+---
+
+## 💻 Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+
+---
 
 <p align="center">
-   <table>
-      <tr>
-       <th>My GitHub Stats</th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=shadril238&show_icons=true&theme=dark"> </td>
-       <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadril238&show_icons=true&locale=en&layout=compact&theme=dark" alt="shadril238" /> </td>
-     </tr>
-   </table>
+<img src="https://github-readme-stats.vercel.app/api?username=shadril238&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadril238&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/shadril238)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-     <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
-   <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-
-</p>
-<!---
-shadril238/shadril238 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
