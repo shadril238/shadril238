@@ -41,6 +41,7 @@ I am a **Software Engineer** at **Brain Station 23 PLC** and **Research Assistan
 
 ### **Research Assistant** @ ELITE Research Lab, LLC
 *Dec 2024 – Present | Remote, USA*
+
 ---
 
 ## 🛠️ Projects
