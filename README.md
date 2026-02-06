@@ -2,7 +2,7 @@
 
 # Shadril Hassan Shifat
 
-### Software Engineer | Research Assistant
+### Software Engineer | AI Researcher
 
 <p align="left">
   <a href="https://linkedin.com/in/shadril">
@@ -23,12 +23,11 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** at **Brain Station 23 PLC** and a **Research Assistant** at **ELITE Research Lab, LLC**. My passion implies in **Deep Learning**, **NLP**, and **Large Language Models (LLMs)**, with a focus on building scalable, event-driven systems and autonomous AI agents.
+I am a **Software Engineer** at **Brain Station 23 PLC** and **Research Assistant** at **ELITE Research Lab, LLC**. My passion implies in **Deep Learning**, **NLP**, and **Large Language Models (LLMs)**, with a focus on building scalable, event-driven systems and autonomous AI agents.
 
-- 🔭 I’m currently working on **Benchmarking LLMs** and **Agentic AI** systems.
+- 🔭 I’m currently working on **LLMs** and **Agentic AI** systems.
 - 🌱 I’m currently learning **Advanced Reinforcement Learning** and **Generative AI**.
 - 👯 I’m looking to collaborate on **Research projects** involving **LLMs**, **Reasoning**, and **Multi-Agent Systems**.
-- 💬 Ask me about **Microservices**, **RAG**, & **System Design**.
 
 ## 🔬 Research Interests
 **Deep Learning**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Computer Vision (CV)**, **Agentic AI**, **Reinforcement Learning**, **Explainable AI (XAI)**.
@@ -39,19 +38,9 @@ I am a **Software Engineer** at **Brain Station 23 PLC** and a **Research Assist
 
 ### **Software Engineer** @ [Brain Station 23 PLC](https://brainstation23.com)
 *Mar 2024 – Present | Dhaka, Bangladesh*
-- Built **Pocket eWallet**, a distributed MFS platform, reducing transaction latency via parallel processing.
-- Developed standalone cron management and centralized notification services for Unipet.
-- Led migration of legacy data and optimized database design for performance.
-- Architected microservices and event-driven systems for fault-tolerant operations.
-- Contributed to **One by MetLife Bangladesh** AI chatbot using LLM-based RAG.
-- Implemented **Azure DevOps CI/CD** pipelines for automated multi-environment deployments.
 
 ### **Research Assistant** @ ELITE Research Lab, LLC
 *Dec 2024 – Present | Remote, USA*
-- conducting research on **benchmarking LLMs** and **AI-driven collaborative agents** for low-resource languages (Bangla).
-- Gained hands-on experience with **LLMs**, **NLP**, **RL**, and **generative AI** with a focus on improving AI reasoning.
-- Built a multi-agent deep research pipeline using **Llama 3.2**, **RAG**, and tool integration.
-
 ---
 
 ## 🛠️ Projects
