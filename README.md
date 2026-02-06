@@ -44,7 +44,7 @@ I am a **Software Engineer** at **Brain Station 23 PLC** and **Research Assistan
 
 ---
 
-## 🛠️ Projects
+<!-- ## 🛠️ Projects
 
 ### [Deep Research Assistant](https://github.com/shadril238)
 *September 2025*
@@ -95,7 +95,7 @@ _Jan 2020 – Sep 2023_
 - **Thesis**: Detecting Mental Health Conditions using Machine Learning (ML) Techniques.
 - **Achievements**: Magna Cum Laude, Dean’s List (6x), Top 10 in Intra-AIUB Programming Contest.
 
----
+--- -->
 
 ## 💻 Technical Skills
 
