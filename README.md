@@ -41,7 +41,7 @@ I am a **Software Engineer** at **Brain Station 23 PLC** and **Research Assistan
 ### **Software Engineer** @ [Brain Station 23 PLC](https://brainstation23.com)
 *Mar 2024 – Present | Dhaka, Bangladesh*
 
-### **Research Assistant** @ ELITE Research Lab, LLC
+### **Research Assistant** @ [ELITE Research Lab, LLC](https://elitelab.ai)
 *Dec 2024 – Present | Remote, USA*
 
 ---
