@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** at **Brain Station 23 PLC** and **Research Assistant** at **ELITE Research Lab, LLC**. My passion implies in **Deep Learning**, **NLP**, and **Large Language Models (LLMs)**, with a focus on building scalable, event-driven systems and autonomous AI agents.
+I am a **Software Engineer** at **Brain Station 23 PLC** and **Research Assistant** at **ELITE Research Lab, LLC**. My passion implies in **Deep Learning**, **NLP**, **Computer Vision** and **Large Language Models (LLMs)**, with a focus on building scalable, event-driven systems and autonomous AI agents.
 
 - 🔭 I’m currently working on **LLMs** and **Agentic AI** systems.
 - 🌱 I’m currently learning **Advanced Reinforcement Learning** and **Generative AI**.
